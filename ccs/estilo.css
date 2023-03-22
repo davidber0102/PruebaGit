@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #3F9;
+}
+body,td,th {
+	color: #F9F9F9;
+}
+
